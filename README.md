@@ -15,8 +15,6 @@
 - 🌟 **HTML & CSS**  
 - 🌟 **Flutter**  
 - 🌟 **Canva**  
-- 🌍 Based in Egypt  
-- 🎯 2026 Goal: Master animations, cloud integrations, and AI-enhanced apps.
 
 ---
 
