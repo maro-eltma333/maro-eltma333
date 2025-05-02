@@ -1,90 +1,131 @@
 # 👋 Hello! I'm Ammar Ahmed
 
-**Welcome to my GitHub profile!**  
-I am a passionate **Front-End Developer** and **Java Developer** with expertise in creating dynamic and user-friendly applications. I enjoy working with various technologies and continuously learning new skills.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20to%20My%20Profile&fontSize=30&animation=fadeIn" />
+</p>
 
 ---
 
 ## 💻 About Me
-- **Skills**: 
-  - Front-End Development
-  - Java Development
-  - SQL & MySQL
-  - JavaScript
-  - HTML & CSS
-  - Canva
-  - Flutter
-  - Figma Design
-  - XML
 
-- 🌍 Based in Egypt
+- 🌟 **Front-End Development**  
+- 🌟 **Java Development**  
+- 🌟 **SQL & MySQL**  
+- 🌟 **JavaScript**  
+- 🌟 **HTML & CSS**  
+- 🌟 **Flutter**  
+- 🌟 **Canva**  
+- 🌍 Based in Egypt  
+- 🎯 2026 Goal: Master animations, cloud integrations, and AI-enhanced apps.
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🌐 Portfolio Website
-<div style="border: 1px solid #ccc; padding: 10px; border-radius: 8px;">
-<img src="https://github.com/maro-eltma333/maro-eltma333/blob/main/Portfolio%20Website.png" width="100%">
-</div>
-**Description**: A personal website showcasing my skills, projects, and experience in development.  
-[View Project](https://maro-eltma333.github.io/Portfolio-Website/)  
+<p align="center">
+  <img src="https://github.com/maro-eltma333/maro-eltma333/blob/main/Portfolio%20Website.png" width="800" style="border: 2px solid #4CAF50; border-radius: 10px; animation: fadeIn 2s ease-out;">
+</p>
+
+💡 **Description**:  
+A personal website showcasing my skills, projects, and journey.  
+🔗 **[View Project](https://maro-eltma333.github.io/Portfolio-Website/)**
 
 ---
 
-### 🏦 BankApp Mobile Application
-**Description**: A modern mobile banking application developed in Java, designed for secure user authentication, transaction management, and bill payments.
+### ✅ Todo List Website
+<p align="center">
+  <img src="https://github.com/maro-eltma333/Todolist/blob/main/App.png" width="800" style="border: 2px solid #FF5733; border-radius: 10px; animation: fadeInLeft 2s ease-out;">
+</p>
 
-- 📱 **Screenshots**:
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github.com/maro-eltma333/Bankapp/blob/master/Design/Homepage.png" width="180px">
-  <img src="https://github.com/maro-eltma333/Bankapp/blob/master/Design/Login.png" width="180px">
-  <img src="https://github.com/maro-eltma333/Bankapp/blob/master/Design/services.png" width="180px">
-  <img src="https://github.com/maro-eltma333/Bankapp/blob/master/Design/transaction-report.png" width="180px">
-  <img src="https://github.com/maro-eltma333/Bankapp/blob/master/Design/transfer.png" width="180px">
-</div>
-
-[View Project](#) <!-- Replace with your final project link -->
+💡 **Description**:  
+A minimalist to-do list app for task organization with a clean, animated UI.  
+🔗 **[View Project](https://maro-eltma333.github.io/Todolist/)**
 
 ---
 
-### ✅ ToDoList Website
-<div style="border: 1px solid #ccc; padding: 10px; border-radius: 8px;">
-<img src="https://github.com/maro-eltma333/Todolist/blob/main/App.png" width="100%">
-</div>
-**Description**: A web-based ToDo list app to help manage daily tasks with an intuitive interface.  
-[View Project](https://maro-eltma333.github.io/Todolist/)
+### 📱 BankApp (Mobile Banking App)
+<p align="center">
+  <img src="https://github.com/maro-eltma333/Bankapp/blob/master/Design/Homepage.png" width="200" style="margin: 10px; animation: fadeInLeft 1s ease-out;">
+  <img src="https://github.com/maro-eltma333/Bankapp/blob/master/Design/Login.png" width="200" style="margin: 10px; animation: fadeInLeft 1.5s ease-out;">
+  <img src="https://github.com/maro-eltma333/Bankapp/blob/master/Design/transaction-report.png" width="200" style="margin: 10px; animation: fadeInLeft 2s ease-out;">
+  <img src="https://github.com/maro-eltma333/Bankapp/blob/master/Design/transfer.png" width="200" style="margin: 10px; animation: fadeInLeft 2.5s ease-out;">
+</p>
+
+<p align="center">
+  <img src="https://github.com/maro-eltma333/Bankapp/blob/master/Design/services.png" width="700" style="margin: 10px; animation: flipInY 3s ease-out;">
+</p>
+
+💡 **Description**:  
+A modern Java-based mobile banking app featuring intuitive navigation and essential services.
 
 ---
 
-### 🔄 Convert Files Website
-<div style="border: 1px solid #ccc; padding: 10px; border-radius: 8px;">
-<img src="https://github.com/maro-eltma333/Convert-Files/blob/main/App.png" width="100%">
-</div>
-**Description**: A website that allows users to easily convert files between different formats.  
-[View Project](https://maro-eltma333.github.io/Convert-Files/)
+### 🔄 Website Convert Files
+<p align="center">
+  <img src="https://github.com/maro-eltma333/Convert-Files/blob/main/App.png" width="800" style="border: 2px solid #008CBA; border-radius: 10px; animation: zoomInDown 2s ease-out;">
+</p>
+
+💡 **Description**:  
+A sleek web tool for converting multiple file formats right in the browser.  
+🔗 **[View Project](https://maro-eltma333.github.io/Convert-Files/)**
+
+---
+
+## 🎓 Accredited Certificates
+
+<p align="center">
+  <img src="https://github.com/maro-eltma333/maro-eltma333/blob/main/wave.png">
+</p>
+
+
+📜 **Database Foundations** (Certified June 2023)  
+📜 **Java Programming** (Certified Dec 2022)  
+📜 **Java Fundamentals Cumulative** (Certified Jan 2024)  
+📜 **Java Fundamentals** (Certified Feb 2024)  
+📜 **Graphic Design** (Certified March 2025)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maro-eltma333&show_icons=true&theme=radical&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maro-eltma333&theme=radical&hide_border=true">
+</p>
 
 ---
 
 ## 👀 Visitor Count
-![Visitor Count](https://badges.pufler.dev/visits/maro-eltma333/maro-eltma333)
+![Visitor Count](https://komarev.com/ghpvc/?username=maro-eltma333&style=for-the-badge&color=blue)
 
 ---
 
 ## 🤝 Let's Connect!
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammarahagagy)
-- [![Email](https://img.shields.io/badge/Email-ammarhagagy10@icloud.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ammarhagagy10@icloud.com)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ammarahagagy">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:ammarhagagy10@icloud.com">
+    <img src="https://img.shields.io/badge/Email-ammarhagagy10@icloud.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Technologies
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=oracle&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-005C9A?style=flat&logo=mysql&logoColor=white)
-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-- ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-- ![XML](https://img.shields.io/badge/XML-FF6600?style=flat&logo=xml&logoColor=white)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-005C9A?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
+</p>
+
+---
+
