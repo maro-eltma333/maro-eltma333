@@ -57,8 +57,45 @@ A minimalist to-do list app for task organization with a clean, animated UI.
 💡 **Description**:  
 A modern Java-based mobile banking app featuring intuitive navigation and essential services.
 
----
 
+---
+### 🏦 Bank Desktop App
+
+<p align="center">
+  <a href="https://github.com/maro-eltma333/BankDesktopApp/blob/main/JavaApplication2/Design/login.jpeg">
+    <img src="https://github.com/maro-eltma333/BankDesktopApp/blob/main/JavaApplication2/Design/login.jpeg" width="300" style="margin: 10px; animation: fadeInUp 1s; border: 2px solid #4CAF50; border-radius: 10px;">
+  </a>
+  <a href="https://github.com/maro-eltma333/BankDesktopApp/blob/main/JavaApplication2/Design/homepage.jpeg">
+    <img src="https://github.com/maro-eltma333/BankDesktopApp/blob/main/JavaApplication2/Design/homepage.jpeg" width="300" style="margin: 10px; animation: fadeInUp 1.2s; border: 2px solid #4CAF50; border-radius: 10px;">
+  </a>
+  <a href="https://github.com/maro-eltma333/BankDesktopApp/blob/main/JavaApplication2/Design/account.jpeg">
+    <img src="https://github.com/maro-eltma333/BankDesktopApp/blob/main/JavaApplication2/Design/account.jpeg" width="300" style="margin: 10px; animation: fadeInUp 1.4s; border: 2px solid #4CAF50; border-radius: 10px;">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/maro-eltma333/BankDesktopApp/blob/main/JavaApplication2/Design/depoist.jpeg">
+    <img src="https://github.com/maro-eltma333/BankDesktopApp/blob/main/JavaApplication2/Design/depoist.jpeg" width="300" style="margin: 10px; animation: fadeInUp 1.6s; border: 2px solid #2196F3; border-radius: 10px;">
+  </a>
+  <a href="https://github.com/maro-eltma333/BankDesktopApp/blob/main/JavaApplication2/Design/withdraw.jpeg">
+    <img src="https://github.com/maro-eltma333/BankDesktopApp/blob/main/JavaApplication2/Design/withdraw.jpeg" width="300" style="margin: 10px; animation: fadeInUp 1.8s; border: 2px solid #2196F3; border-radius: 10px;">
+  </a>
+  <a href="https://github.com/maro-eltma333/BankDesktopApp/blob/main/JavaApplication2/Design/thanks.jpeg">
+    <img src="https://github.com/maro-eltma333/BankDesktopApp/blob/main/JavaApplication2/Design/thanks.jpeg" width="300" style="margin: 10px; animation: fadeInUp 2s; border: 2px solid #2196F3; border-radius: 10px;">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/maro-eltma333/BankDesktopApp/tree/main/JavaApplication2/Design">
+    <img src="https://img.shields.io/badge/View%20Repository-%F0%9F%91%80-blueviolet?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="View Repository Badge">
+  </a>
+</p>
+
+💡 **Description**:  
+A modern Java desktop banking app with Oracle integration, featuring multi-screen navigation, secure sessions, and polished UI design.
+
+
+---
 ### 🔒 Password Generator
 <p align="center">
   <img src="https://github.com/maro-eltma333/password-generator/blob/main/App.png" width="500" style="border: 2px solid #9C27B0; border-radius: 10px; animation: bounceIn 2s ease-out;">
@@ -97,10 +134,9 @@ A sleek web tool for converting multiple file formats right in the browser.
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maro-eltma333&show_icons=true&theme=radical&hide_border=true">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=maro-eltma333&show_icons=true&theme=radical&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maro-eltma333&layout=compact&theme=radical&hide_border=true" width="300" />
 </p>
 
 ---
