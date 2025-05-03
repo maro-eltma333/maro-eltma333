@@ -100,7 +100,7 @@ A sleek web tool for converting multiple file formats right in the browser.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maro-eltma333&show_icons=true&theme=radical&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maro-eltma333&theme=radical&hide_border=true">
+
 </p>
 
 ---
