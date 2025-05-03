@@ -59,6 +59,17 @@ A modern Java-based mobile banking app featuring intuitive navigation and essent
 
 ---
 
+### 🔒 Password Generator
+<p align="center">
+  <img src="https://github.com/maro-eltma333/password-generator/blob/main/App.png" width="500" style="border: 2px solid #9C27B0; border-radius: 10px; animation: bounceIn 2s ease-out;">
+</p>
+
+💡 **Description**:  
+A Java desktop application designed to generate strong, random passwords with customizable length and character options, helping users enhance the security of their accounts and data.
+
+
+---
+
 ### 🔄 Website Convert Files
 <p align="center">
   <img src="https://github.com/maro-eltma333/Convert-Files/blob/main/App.png" width="800" style="border: 2px solid #008CBA; border-radius: 10px; animation: zoomInDown 2s ease-out;">
