@@ -39,7 +39,7 @@ A personal website showcasing my skills, projects, and journey.
 💡 **Description**:  
 A minimalist to-do list app for task organization with a clean, animated UI.  
 🔗 **[View Project](https://maro-eltma333.github.io/Todolist/)**
-https://github.com/maro-eltma333/maro-eltma333/blob/main/services.png
+
 ---
 ### 📱 BankApp (Mobile Banking App)
 <p align="center">
