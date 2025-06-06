@@ -39,19 +39,18 @@ A personal website showcasing my skills, projects, and journey.
 💡 **Description**:  
 A minimalist to-do list app for task organization with a clean, animated UI.  
 🔗 **[View Project](https://maro-eltma333.github.io/Todolist/)**
-
+https://github.com/maro-eltma333/maro-eltma333/blob/main/services.png
 ---
-
 ### 📱 BankApp (Mobile Banking App)
 <p align="center">
-  <img src="https://github.com/maro-eltma333/Bankapp/blob/master/Design/Homepage.png" width="200" style="margin: 10px; animation: fadeInLeft 1s ease-out;">
-  <img src="https://github.com/maro-eltma333/Bankapp/blob/master/Design/Login.png" width="200" style="margin: 10px; animation: fadeInLeft 1.5s ease-out;">
-  <img src="https://github.com/maro-eltma333/Bankapp/blob/master/Design/transaction-report.png" width="200" style="margin: 10px; animation: fadeInLeft 2s ease-out;">
-  <img src="https://github.com/maro-eltma333/Bankapp/blob/master/Design/transfer.png" width="200" style="margin: 10px; animation: fadeInLeft 2.5s ease-out;">
+  <img src="https://github.com/maro-eltma333/maro-eltma333/blob/main/Homepage.png" width="200" style="margin: 10px; animation: fadeInLeft 1s ease-out;">
+  <img src="https://github.com/maro-eltma333/maro-eltma333/blob/main/Login.png" width="200" style="margin: 10px; animation: fadeInLeft 1.5s ease-out;">
+  <img src="https://github.com/maro-eltma333/maro-eltma333/blob/main/transaction-report.png" width="200" style="margin: 10px; animation: fadeInLeft 2s ease-out;">
+  <img src="https://github.com/maro-eltma333/maro-eltma333/blob/main/transfer.png" width="200" style="margin: 10px; animation: fadeInLeft 2.5s ease-out;">
 </p>
 
 <p align="center">
-  <img src="https://github.com/maro-eltma333/Bankapp/blob/master/Design/services.png" width="700" style="margin: 10px; animation: flipInY 3s ease-out;">
+  <img src="https://github.com/maro-eltma333/maro-eltma333/blob/main/services.png" width="700" style="margin: 10px; animation: flipInY 3s ease-out;">
 </p>
 
 💡 **Description**:  
@@ -62,26 +61,26 @@ A modern Java-based mobile banking app featuring intuitive navigation and essent
 ### 🏦 Bank Desktop App
 
 <p align="center">
-  <a href="https://github.com/maro-eltma333/BankDesktopApp/blob/main/JavaApplication2/Design/login.jpeg">
-    <img src="https://github.com/maro-eltma333/BankDesktopApp/blob/main/JavaApplication2/Design/login.jpeg" width="300" style="margin: 10px; animation: fadeInUp 1s; border: 2px solid #4CAF50; border-radius: 10px;">
+  <a href="https://github.com/maro-eltma333/maro-eltma333/blob/main/login.jpeg">
+    <img src="https://github.com/maro-eltma333/maro-eltma333/blob/main/login.jpeg" width="300" style="margin: 10px; animation: fadeInUp 1s; border: 2px solid #4CAF50; border-radius: 10px;">
   </a>
-  <a href="https://github.com/maro-eltma333/BankDesktopApp/blob/main/JavaApplication2/Design/homepage.jpeg">
-    <img src="https://github.com/maro-eltma333/BankDesktopApp/blob/main/JavaApplication2/Design/homepage.jpeg" width="300" style="margin: 10px; animation: fadeInUp 1.2s; border: 2px solid #4CAF50; border-radius: 10px;">
+  <a href="https://github.com/maro-eltma333/maro-eltma333/blob/main/homepage.jpeg">
+    <img src="https://github.com/maro-eltma333/maro-eltma333/blob/main/homepage.jpeg" width="300" style="margin: 10px; animation: fadeInUp 1.2s; border: 2px solid #4CAF50; border-radius: 10px;">
   </a>
-  <a href="https://github.com/maro-eltma333/BankDesktopApp/blob/main/JavaApplication2/Design/account.jpeg">
-    <img src="https://github.com/maro-eltma333/BankDesktopApp/blob/main/JavaApplication2/Design/account.jpeg" width="300" style="margin: 10px; animation: fadeInUp 1.4s; border: 2px solid #4CAF50; border-radius: 10px;">
+  <a href="https://github.com/maro-eltma333/maro-eltma333/blob/main/account.jpeg">
+    <img src="https://github.com/maro-eltma333/maro-eltma333/blob/main/account.jpeg" width="300" style="margin: 10px; animation: fadeInUp 1.4s; border: 2px solid #4CAF50; border-radius: 10px;">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/maro-eltma333/BankDesktopApp/blob/main/JavaApplication2/Design/depoist.jpeg">
-    <img src="https://github.com/maro-eltma333/BankDesktopApp/blob/main/JavaApplication2/Design/depoist.jpeg" width="300" style="margin: 10px; animation: fadeInUp 1.6s; border: 2px solid #2196F3; border-radius: 10px;">
+  <a href="https://github.com/maro-eltma333/maro-eltma333/blob/main/depoist.jpeg">
+    <img src="https://github.com/maro-eltma333/maro-eltma333/blob/main/depoist.jpeg" width="300" style="margin: 10px; animation: fadeInUp 1.6s; border: 2px solid #2196F3; border-radius: 10px;">
   </a>
-  <a href="https://github.com/maro-eltma333/BankDesktopApp/blob/main/JavaApplication2/Design/withdraw.jpeg">
-    <img src="https://github.com/maro-eltma333/BankDesktopApp/blob/main/JavaApplication2/Design/withdraw.jpeg" width="300" style="margin: 10px; animation: fadeInUp 1.8s; border: 2px solid #2196F3; border-radius: 10px;">
+  <a href="https://github.com/maro-eltma333/maro-eltma333/blob/main/withdraw.jpeg">
+    <img src="https://github.com/maro-eltma333/maro-eltma333/blob/main/withdraw.jpeg" width="300" style="margin: 10px; animation: fadeInUp 1.8s; border: 2px solid #2196F3; border-radius: 10px;">
   </a>
-  <a href="https://github.com/maro-eltma333/BankDesktopApp/blob/main/JavaApplication2/Design/thanks.jpeg">
-    <img src="https://github.com/maro-eltma333/BankDesktopApp/blob/main/JavaApplication2/Design/thanks.jpeg" width="300" style="margin: 10px; animation: fadeInUp 2s; border: 2px solid #2196F3; border-radius: 10px;">
+  <a href="https://github.com/maro-eltma333/maro-eltma333/blob/main/thanks.jpeg">
+    <img src="https://github.com/maro-eltma333/maro-eltma333/blob/main/thanks.jpeg" width="300" style="margin: 10px; animation: fadeInUp 2s; border: 2px solid #2196F3; border-radius: 10px;">
   </a>
 </p>
 
