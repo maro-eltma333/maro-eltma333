@@ -148,10 +148,10 @@ A sleek web tool for converting multiple file formats right in the browser.
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ammarahagagy">
+  <a href="https://www.linkedin.com/in/ammarhagagy/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:ammarhagagy10@icloud.com">
+  <a href="mailto:mindsetcoding0@gmail.com">
     <img src="https://img.shields.io/badge/Email-ammarhagagy10@icloud.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
