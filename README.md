@@ -53,7 +53,7 @@ Bilingual (EN/AR) sign language learning and translation platform for the Deaf/H
 
 💡 **Description**:  
 A personal website showcasing my skills, projects, and journey.  
-🔗 **[View Project]([https://maro-eltma333.github.io/Portfolio-Website/](https://maro-portfolio.vercel.app/))**
+🔗 **[View Project]([https://maro-portfolio.vercel.app/](https://maro-portfolio.vercel.app/))**
 
 ---
 
