@@ -52,8 +52,8 @@ Bilingual (EN/AR) sign language learning and translation platform for the Deaf/H
 </p>
 
 💡 **Description**:  
-A personal website showcasing my skills, projects, and journey.  
-🔗 **[View Project]([https://maro-portfolio.vercel.app/](https://maro-portfolio.vercel.app/))**
+A professional personal website showcasing my skills, projects, and journey. Rebuilt with Next.js and Tailwind CSS for maximum speed and security.  
+🔗 **[View Live Site](https://maro-portfolio.vercel.app/)** | **[View Repository](https://github.com/maro-eltma333/Portfolio-Website)**
 
 ---
 
@@ -202,3 +202,4 @@ A modern Java desktop banking app with Oracle integration, featuring multi-scree
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,java,js,typescript,python,flutter,react,nextjs,nodejs,fastapi,pytorch,postgresql,supabase,firebase,docker" />
 </p>
+```
